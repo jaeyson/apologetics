@@ -1,7 +1,7 @@
 +++
-title = 'My First Post'
+title = 'Disiplina o Konsinte'
 date = 2024-07-12T14:49:17+08:00
-draft = true
+draft = false
 +++
 ## Introduction
 
